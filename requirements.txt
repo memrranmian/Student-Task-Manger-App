@@ -1,0 +1,16 @@
+# Student Task Manager - Requirements / Dependencies
+#
+# This project is a client-side vanilla web application built using:
+# - HTML5
+# - CSS3
+# - JavaScript (ES6+)
+#
+# No external Python libraries or runtime installations are strictly required.
+# However, if you wish to run a lightweight local development web server using Python:
+
+# Optional: Local HTTP Server (Python standard library)
+# To serve the application locally without extra dependencies, run:
+#   python -m http.server 8000
+#
+# Optional lightweight development server tools:
+# livereload>=2.6.3
